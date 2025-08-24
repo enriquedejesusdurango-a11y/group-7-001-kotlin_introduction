@@ -1,4 +1,4 @@
 # group-7-001-kotlin_introduction
-Andres David Gallego Echavarria
-Jhonatan Stiven Salazar Posada
-Mauricio Salazar
+<p>Andres David Gallego Echavarria</p>
+<p>Jhonatan Stiven Salazar Posada</p>
+<P>Mauricio Salazar</P>
